@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Showkatulislam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning c++,python,javascript,Machine learning deep learning
+- 💞️ I’m looking to collaborate on my own project
+- 📫 You can contact with me showkatul2@gmail.com 
+-    I am student of CSE
 
 <!---
 Showkatulislam/Showkatulislam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
