@@ -7,7 +7,7 @@
 - Portfolio
 - https://portfolio-rf7156mcg-showkatulislam.vercel.app/
 - Problem solver 
-- leedcode https://leetcode.com/showkatul/
+- leetcode https://leetcode.com/showkatul/
 - beecrowd https://www.beecrowd.com.br/judge/en/profile/402034
 <!---
 Showkatulislam/Showkatulislam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
